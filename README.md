@@ -14,7 +14,7 @@ Recordar que al descargar el archivo es probable que deban añadírsele permisos
 
 Una vez ejecutado, el programa pedirá al usuario la dirección que quiera traducir, el idioma de origen de la web y el idioma de destino. Una vez introducidos los datos solicitados por el programa, se abrirá el navegador web con la web traducida al idioma elegido.
 
-Los idiomas se introducen son los códigos usados por Google en su servicio de traducción web:
+Los idiomas se introducen con los códigos usados por Google en su servicio de traducción web:
 
 <b>'af','sq','de','am','ar','hy','az','bn','be',
 'my','bs','bg','km','kn','ca','ce','cs','ny',
