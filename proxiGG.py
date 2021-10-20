@@ -93,6 +93,7 @@ def _ayuda():
     print(LISTA_IDIOMAS)
     return
 
+# Comprobar si se va a usar con parámetros o de forma interactiva.
 if len(sys.argv) > 1:
     web = str(sys.argv[1])
     x1 = str(sys.argv[2])
