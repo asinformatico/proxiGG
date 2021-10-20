@@ -37,7 +37,7 @@ También puede usarse sin interacción del usuario llamándolo desde la línea d
 
 Ejemplo de uso con parámetros:
 
-<b>./proxiGG.py https://www.dominio.com/loquesea/pagina es en<b>
+<b>./proxiGG.py https://www.dominio.com/loquesea/pagina es en</b>
 
 En este ejemplo se ve claramente que el primer parámetro es la web a traducir (https://www.dominio.com/loquesea/pagina), el segunndo parámetro es el idioma de origen (es) y el tercer parámetro es el idioma de destino (en).
   
