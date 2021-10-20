@@ -39,6 +39,6 @@ Ejemplo de uso con parámetros:
 
 <b>./proxiGG.py https://www.dominio.com/loquesea/pagina es en</b>
 
-En este ejemplo se ve claramente que el primer parámetro es la web a traducir (https://www.dominio.com/loquesea/pagina), el segunndo parámetro es el idioma de origen (es) y el tercer parámetro es el idioma de destino (en).
+En este ejemplo se ve claramente que el primer parámetro es la web a traducir (https://www.dominio.com/loquesea/pagina), el segundo parámetro es el idioma de origen (es) y el tercer parámetro es el idioma de destino (en).
   
 Una funcionalidad adicional es que puede usarse como proxy, ya que la navegación se realiza a través del servidor de traducción de Google.
